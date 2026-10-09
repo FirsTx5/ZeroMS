@@ -1,0 +1,128 @@
+# Política de Privacidade — ZeroM$
+
+**Última atualização:** 9 de outubro de 2026
+
+A ZeroM$ valoriza a privacidade dos membros da sua comunidade e busca tratar as informações pessoais de forma responsável e transparente. Esta Política de Privacidade explica quais informações podem ser coletadas por nossos bots no Discord, como são utilizadas e em quais situações podem ser armazenadas.
+
+Ao utilizar nossos bots e serviços, você declara estar ciente das práticas descritas nesta política.
+
+## 1. Quais informações coletamos?
+
+Dependendo da funcionalidade utilizada, nossos bots podem processar as seguintes informações:
+
+* **Identificação no Discord:** nome de usuário, ID da conta e informações necessárias para reconhecer o participante e gerenciar suas solicitações.
+* **Comprovantes de participação:** imagens enviadas pelos usuários para comprovar que seguiram um tutorial ou cumpriram os requisitos necessários para receber uma key gratuita.
+* **Informações de atendimento:** mensagens e arquivos compartilhados durante conversas com nossa equipe de suporte.
+* **Informações de influenciadores:** links de vídeos publicados, identificação do participante e dados necessários para verificar os requisitos de participação e realizar a entrega das recompensas.
+* **Registros de solicitações e entregas:** informações necessárias para controlar resgates, verificar elegibilidade, prevenir solicitações duplicadas e confirmar a entrega de produtos ou benefícios.
+
+Coletamos e utilizamos essas informações conforme a necessidade de cada funcionalidade.
+
+## 2. Bot de distribuição de keys gratuitas
+
+Nosso bot de distribuição de keys permite que membros elegíveis solicitem uma key gratuita após cumprirem os requisitos divulgados pela ZeroM$.
+
+O funcionamento ocorre da seguinte maneira:
+
+1. O usuário segue o tutorial indicado e envia uma captura de tela como comprovante.
+2. A solicitação é encaminhada para avaliação da equipe responsável.
+3. Após a aprovação, o usuário recebe a key correspondente.
+
+As capturas de tela são utilizadas exclusivamente para verificar o cumprimento dos requisitos da solicitação. **A ZeroM$ não mantém um arquivo ou histórico permanente dessas imagens após a avaliação**, conforme o funcionamento previsto do sistema.
+
+Informações básicas da solicitação, como a identificação do usuário e o registro da aprovação ou entrega, poderão ser mantidas quando necessárias para administrar o programa e evitar abusos.
+
+## 3. Bot de atendimento e suporte
+
+A ZeroM$ utiliza um bot de tickets para organizar o atendimento aos membros da comunidade.
+
+Durante um atendimento, as mensagens e os arquivos enviados podem ser registrados em um transcript da conversa. Para essa funcionalidade, utilizamos serviços e APIs de terceiros que auxiliam na geração e no armazenamento desses registros.
+
+Os transcripts podem ser consultados por membros autorizados da equipe para:
+
+* Consultar o histórico de um atendimento;
+* Verificar informações sobre a entrega de um produto;
+* Resolver dúvidas ou reclamações posteriores;
+* Analisar possíveis erros, conflitos ou solicitações de suporte;
+* Manter registros necessários à administração e à segurança do serviço.
+
+Os transcripts são acessíveis apenas às pessoas autorizadas, conforme as permissões e os controles disponíveis. Eles são mantidos pelo período necessário às finalidades descritas nesta política, observadas eventuais obrigações legais.
+
+Como os registros podem conter informações compartilhadas durante o atendimento, recomendamos que os usuários não enviem senhas, dados bancários completos ou outras informações sensíveis desnecessárias.
+
+## 4. Bot do programa de influenciadores
+
+A ZeroM$ também disponibiliza um bot destinado aos participantes do programa de influenciadores.
+
+Por meio dele, os participantes podem enviar links de vídeos para comprovar suas publicações e participar do processo de avaliação e distribuição de recompensas.
+
+As informações processadas podem incluir:
+
+* Identificação do participante no Discord;
+* Links dos vídeos enviados;
+* Registros de participação e avaliação;
+* Informações sobre elegibilidade e recompensas concedidas.
+
+Essas informações são utilizadas para verificar o cumprimento das regras do programa, organizar as participações e realizar a entrega das keys correspondentes.
+
+O envio de um link não garante automaticamente a aprovação ou o recebimento de uma recompensa. A concessão depende dos critérios e das regras aplicáveis ao programa.
+
+## 5. Finalidades do tratamento
+
+As informações processadas pelos nossos bots são utilizadas para:
+
+* Verificar solicitações e requisitos de participação;
+* Distribuir keys e outras recompensas;
+* Prestar suporte aos membros;
+* Manter registros de atendimentos e entregas;
+* Prevenir fraudes, abusos e solicitações duplicadas;
+* Administrar os programas e serviços da comunidade;
+* Cumprir obrigações legais aplicáveis.
+
+**Não comercializamos os dados pessoais dos usuários.** As informações não são vendidas a terceiros para fins publicitários.
+
+## 6. Compartilhamento com terceiros
+
+Algumas funcionalidades dependem de plataformas e serviços externos, incluindo o Discord e serviços de API utilizados para gerar ou armazenar transcripts de atendimento.
+
+Nesses casos, as informações estritamente necessárias podem ser processadas por esses fornecedores para permitir o funcionamento dos serviços.
+
+O tratamento realizado por terceiros também pode estar sujeito às respectivas políticas de privacidade e condições de uso.
+
+Não autorizamos o acesso indiscriminado às informações dos usuários. O acesso interno deve ser limitado às pessoas que precisam dessas informações para executar suas responsabilidades.
+
+## 7. Armazenamento e segurança
+
+Adotamos medidas razoáveis para limitar o acesso às informações e proteger os registros tratados pelos nossos sistemas.
+
+As capturas de tela utilizadas na verificação de keys não são mantidas em um arquivo permanente pela ZeroM$ após a avaliação. Outros registros, como transcripts de suporte e informações administrativas de resgates, podem ser armazenados pelo tempo necessário para suas finalidades.
+
+Nenhum sistema pode garantir segurança absoluta. Caso seja identificado um incidente relevante envolvendo informações pessoais, serão avaliadas as medidas cabíveis conforme a legislação aplicável.
+
+## 8. Direitos dos usuários
+
+Conforme a legislação aplicável, incluindo a Lei Geral de Proteção de Dados Pessoais (LGPD), os usuários podem solicitar informações sobre o tratamento de seus dados e, quando aplicável, pedir acesso, correção, exclusão ou outras providências previstas em lei.
+
+A realização de uma solicitação poderá exigir a confirmação da identidade do solicitante. Alguns registros poderão precisar ser mantidos quando houver obrigação legal ou outra justificativa legítima aplicável.
+
+Para exercer seus direitos ou esclarecer dúvidas sobre esta política, entre em contato com nossa equipe pelo sistema de tickets do servidor oficial da ZeroM$.
+
+**Contato:** [inserir link do servidor oficial ou canal de suporte]
+
+## 9. Privacidade de menores de idade
+
+Os usuários devem respeitar os requisitos de idade e os termos de serviço das plataformas utilizadas. Não solicitamos intencionalmente informações pessoais além das necessárias para as funcionalidades oferecidas.
+
+Caso um responsável acredite que informações de um menor tenham sido fornecidas de maneira inadequada, poderá entrar em contato com nossa equipe para que a situação seja analisada.
+
+## 10. Alterações nesta política
+
+Esta política poderá ser atualizada para refletir mudanças nos nossos bots, serviços, práticas de tratamento de informações ou exigências legais.
+
+A versão atualizada será publicada neste mesmo endereço, acompanhada da data de revisão.
+
+## 11. Contato
+
+Em caso de dúvidas, solicitações ou preocupações relacionadas à privacidade, entre em contato com a equipe da ZeroM$ pelo canal oficial de suporte.
+
+Ao utilizar nossos bots, você poderá consultar esta política para entender como suas informações são tratadas e quais são as finalidades desse tratamento.
